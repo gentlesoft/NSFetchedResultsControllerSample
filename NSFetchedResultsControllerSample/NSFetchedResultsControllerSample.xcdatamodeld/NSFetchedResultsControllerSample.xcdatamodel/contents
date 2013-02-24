@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="2057" systemVersion="11G63" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Cursor" representedClassName="Cursor">
+        <attribute name="color" attributeType="Integer 16" defaultValueString="0" indexed="YES" syncable="YES"/>
+        <attribute name="timeStamp" attributeType="Date" indexed="YES">
+            <userInfo/>
+        </attribute>
+        <attribute name="x" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="y" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="Cursor" positionX="261" positionY="189" width="128" height="105"/>
+    </elements>
+</model>
